@@ -1,6 +1,6 @@
 # 🎓 PRPS Alumni
 
-🌐 https://prps-alumni.pages.dev/
+🌐 [Live Website](prps-alumni.pages.dev){:target="_blank"}
 
 ---
 
