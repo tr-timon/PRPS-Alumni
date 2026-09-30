@@ -1,6 +1,6 @@
 # 🎓 PRPS Alumni
 
-🌐 https://prps-alumni.vercel.app/
+🌐 https://prps-alumni.pages.dev/
 
 ---
 
